@@ -56,6 +56,9 @@ var colors = {
     16: 'sixteen',
     32: 'thirtytwo',
     64: 'sixtyfour',
+    128: 'onehundredtwentyeight',
+    256: 'twohundredfiftysix',
+    512: 'fivehundredtwelve'
 };
 
 App.directive('tile', function () {
